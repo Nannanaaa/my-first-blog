@@ -1,10 +1,10 @@
-# "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: "/Girls-Coding-Day-Jekyll-blog-1"
+# "/" + my-first-blog
+baseurl: "/my-first-blog"
 
 # 网站的主标题
-title: "Girls Coding Day"
+title: "强棒少女的陪伴日记"
 # 网站副标题
-subTitle: "架起女性与编程的桥梁"
+subTitle: "宝藏女孩吉克石子"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
